@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TemperatureApp</string>
+    <string name="please_enter_city">Please enter a city name</string>
+    <string name="temperature_format">City: %1$s\nTemperature: %2$.1f°C</string>
+    <string name="error_get_temperature">Unable to get temperature</string>
+    <string name="map_heading">Tap any city to check the temperature</string>
+    <string name="temperature_output_format">Temperature in %1$s is %2$.1f°C</string>
+    <string name="unknown_location">Unknown location</string>
+    <string name="city_label">City: %1$s</string>
+    <string name="temp_label">Temperature: %1$.1f°C</string>
+    <string name="show_button">Show</string>
+</resources>
