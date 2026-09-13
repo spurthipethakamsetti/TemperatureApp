@@ -1,37 +1,34 @@
-# 🌡️ Temperature App
+# 🌦️ Weather Map App
 
-A native Android application that displays the real-time temperature of a city using the OpenWeatherMap API.
+A native Android application that allows users to search for a city or tap a location on an interactive Google Map to view its real-time temperature.
 
 ## 📱 Features
 
-- 🌍 Search weather by city name
-- 🌡️ Display real-time temperature
-- 🌐 Fetch weather data from OpenWeatherMap API
-- 📄 Process JSON API responses
-- 📱 Simple and user-friendly Android interface
+- 🔍 Search for a city
+- 🗺️ Interactive Google Map
+- 📍 Tap any location on the map
+- 🌡️ Get real-time temperature
+- 📌 Display the selected location with a marker
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies
 
 - Java
 - Android Studio
 - XML
+- Google Maps SDK
 - OpenWeatherMap API
-- REST API
 - JSON
+- Geocoder
 
 ## 🔄 How It Works
 
 ```text
-Enter City Name
-       ↓
-Click "Show Temperature"
-       ↓
-Android Application
-       ↓
-OpenWeatherMap API
-       ↓
-JSON Response
-       ↓
-Extract Temperature
-       ↓
-Display Temperature
+Search City / Tap Map
+          ↓
+   Get Latitude & Longitude
+          ↓
+   OpenWeatherMap API
+          ↓
+      JSON Response
+          ↓
+    Display Temperature
