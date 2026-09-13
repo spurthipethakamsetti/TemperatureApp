@@ -17,8 +17,6 @@ A simple Android app that shows real-time temperature using a city search or a l
 
 ![Map View](mapTemperature.jpeg)
 
-![City Search](search.jpeg)
-
 ## 🛠️ Built With
 
 - Java
