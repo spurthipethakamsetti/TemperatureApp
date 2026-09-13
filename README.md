@@ -1,16 +1,25 @@
 # 🌦️ Weather Map App
 
-A native Android application that allows users to search for a city or tap a location on an interactive Google Map to view its real-time temperature.
+A simple Android app that shows real-time temperature using a city search or a location selected on Google Maps.
 
-## 📱 Features
+[![Download APK](https://img.shields.io/badge/Download-APK-green?logo=android)](../../releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/spurthipethakamsetti/TemperatureApp)](../../releases/latest)
+
+## ✨ Features
 
 - 🔍 Search for a city
-- 🗺️ Interactive Google Map
-- 📍 Tap any location on the map
-- 🌡️ Get real-time temperature
-- 📌 Display the selected location with a marker
+- 🗺️ Explore the map
+- 📍 Tap any location to get its temperature
+- 🌡️ View real-time temperature
+- 📌 Show the selected location with a marker
 
-## 🛠️ Technologies
+## 📸 Screenshots
+
+![Map View](mapTemperature.jpeg)
+
+![City Search](search.jpeg)
+
+## 🛠️ Built With
 
 - Java
 - Android Studio
@@ -20,34 +29,17 @@ A native Android application that allows users to search for a city or tap a loc
 - JSON
 - Geocoder
 
-## 🔄 How It Works
+## 🚀 Run the App
 
-```text
-Search City / Tap Map
-          ↓
-Get Latitude & Longitude
-          ↓
-OpenWeatherMap API
-          ↓
-JSON Response
-          ↓
-Display Temperature
-```
+1. Clone this repository.
+2. Open it in Android Studio.
+3. Add your Google Maps and OpenWeatherMap API keys.
+4. Build and run the app on an Android device or emulator.
 
-## 📸 Screenshots
+## 📥 Download
 
-![Weather Map App](mapTemperature.jpeg)
+Get the latest APK from the **Releases** section.
 
-![Search](search.jpeg)
+## 👩‍💻 Author
 
-## 📥 Download APK
-
-The latest APK will be available in the GitHub Releases section.
-
-## 🚀 How to Run
-
-1. Clone the repository.
-2. Open the project in Android Studio.
-3. Add your API keys.
-4. Connect an Android device or emulator.
-5. Run the application.
+**Spurthi**
