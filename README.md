@@ -25,16 +25,29 @@ A native Android application that allows users to search for a city or tap a loc
 ```text
 Search City / Tap Map
           ↓
-   Get Latitude & Longitude
+Get Latitude & Longitude
           ↓
-   OpenWeatherMap API
+OpenWeatherMap API
           ↓
-      JSON Response
+JSON Response
           ↓
-    Display Temperature
+Display Temperature
+```
 
 ## 📸 Screenshots
 
 ![Weather Map App](mapTemperature.jpeg)
 
 ![Search](search.jpeg)
+
+## 📥 Download APK
+
+The latest APK will be available in the GitHub Releases section.
+
+## 🚀 How to Run
+
+1. Clone the repository.
+2. Open the project in Android Studio.
+3. Add your API keys.
+4. Connect an Android device or emulator.
+5. Run the application.
