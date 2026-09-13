@@ -32,3 +32,9 @@ Search City / Tap Map
       JSON Response
           ↓
     Display Temperature
+
+## 📸 Screenshots
+
+![Weather Map App](mapTemperature.jpeg)
+
+![Search](search.jpeg)
